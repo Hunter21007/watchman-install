@@ -12,4 +12,5 @@ the original instructions are got from [davidmason](https://gist.github.com/davi
 ## Thanks
 
 * Team Facebook for great Stuff
+* Kumar Harsh for VSCode extension
 * [David Mason](https://gist.github.com/davidmason) for initial work
