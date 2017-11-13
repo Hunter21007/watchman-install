@@ -9,7 +9,7 @@ And there was no rpm for fc26.
 
 the original instructions are got from [davidmason](https://gist.github.com/davidmason/5b9c43202ad4c4ff562badbf2a25ae68)
 
-Thanks:
+## Thanks
 
-Team Facebook for great Stuff
-[David Mason](https://gist.github.com/davidmason) for initial work
+* Team Facebook for great Stuff
+* [David Mason](https://gist.github.com/davidmason) for initial work
